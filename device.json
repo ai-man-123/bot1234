@@ -9,10 +9,10 @@
     "multi" : false, 
     "nopref" : false, 
     "antidel" : false, 
-    "readGc" : false, 
-    "readPc" : false, 
-    "autoketik" : false, 
+    "readGc" : true, 
+    "readPc" : true, 
+    "autoketik" : true, 
     "autorekam" : false, 
-    "welcome" : false, 
-    "autobio" : false
+    "welcome" : true, 
+    "autobio" : true
 }
