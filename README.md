@@ -27,7 +27,13 @@
 
 Scan code QR nya | WhatsApp web
 ```
--------
+## ```RUN TO LINUX``` 
+git clone https://github.com/ai-man-123/1234
+cd 1234
+
+npm i
+
+npm start
 
 ## ```THANKS TO ALL``` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
